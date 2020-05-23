@@ -1,0 +1,6 @@
+framework module BPActivityIndicator {
+  umbrella header "BPActivityIndicator-umbrella.h"
+
+  export *
+  module * { export * }
+}

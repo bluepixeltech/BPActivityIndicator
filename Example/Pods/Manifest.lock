@@ -1,0 +1,16 @@
+PODS:
+  - BPActivityIndicator (0.1.0)
+
+DEPENDENCIES:
+  - BPActivityIndicator (from `../`)
+
+EXTERNAL SOURCES:
+  BPActivityIndicator:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  BPActivityIndicator: 7a6735d9d46268701d7dd669b767cbdde7950f9a
+
+PODFILE CHECKSUM: f1cb0a2c5ebb0363034041c29cdcdc36ec566cb9
+
+COCOAPODS: 1.9.1
