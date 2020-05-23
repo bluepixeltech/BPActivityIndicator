@@ -1,0 +1,11 @@
+use_frameworks!
+
+target 'BPActivityIndicator_Example' do
+  pod 'BPActivityIndicator', :path => '../'
+
+  target 'BPActivityIndicator_Tests' do
+    inherit! :search_paths
+
+    
+  end
+end
