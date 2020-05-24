@@ -13,7 +13,7 @@ To run the example project, clone the repo, and run `pod install` from the Examp
 
 ## Installation
 
-### Via Cocoapods
+### - Via Cocoapods
 BPActivityIndicator is available through [CocoaPods](https://cocoapods.org). To install
 it, simply add the following line to your Podfile:
 
@@ -21,8 +21,30 @@ it, simply add the following line to your Podfile:
 pod 'BPActivityIndicator'
 ```
 
-### Via source file
+### - Via source file
 Simply drag & drop BPActivityIndicator.swift into your project.
+
+## Usage
+
+### - Interface Builder
+
+
+### - Programmatically
+
+```swift
+let ai = BPActivityIndicator(frame: CGRect(x: 50.0, y: 50.0, width: 170.0, height: 200.0))
+ai.translatesAutoresizingMaskIntoConstraints = false
+view.addSubview(ai)
+ai.activityIndicatorStyle = .tripleDotDance
+ai.backgroundMode = .none
+ai.backgroundColorStyle = .dark
+ai.titleColor = .lightGray
+ai.titleFont = UIFont.systemFont(ofSize: 18.0, weight: .light)
+ai.title = "Please wait..."
+ai.color = .lightGray
+ai.lineWidth = 3.0
+ai.startAnimating()
+```
 
 ## Author
 
