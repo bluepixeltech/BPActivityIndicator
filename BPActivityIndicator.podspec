@@ -1,42 +1,24 @@
-#
-# Be sure to run `pod lib lint BPActivityIndicator.podspec' to ensure this is a
-# valid spec before submitting.
-#
-# Any lines starting with a # are optional, but their use is encouraged
-# To learn more about a Podspec see https://guides.cocoapods.org/syntax/podspec.html
-#
 
 Pod::Spec.new do |s|
   s.name             = 'BPActivityIndicator'
   s.version          = '0.1.0'
-  s.summary          = 'A short description of BPActivityIndicator.'
-
-# This description is used to generate tags and improve search results.
-#   * Think: What does it do? Why did you write it? What is the focus?
-#   * Try to keep it short, snappy and to the point.
-#   * Write the description between the DESC delimiters below.
-#   * Finally, don't worry about the indent, CocoaPods strips it!
+  s.summary          = 'A customizable activity indicator view written in Swift 5'
 
   s.description      = <<-DESC
-TODO: Add long description of the pod here.
+'BPActivityIndicator is a light-weight replacement for UIActivityIndicatorView based on Core Animation and Core Graphics. I can added to your project both programmatically and via Interface Builder.'
                        DESC
 
   s.homepage         = 'https://github.com/bluepixeltech/BPActivityIndicator'
-  # s.screenshots     = 'www.example.com/screenshots_1', 'www.example.com/screenshots_2'
   s.license          = { :type => 'MIT', :file => 'LICENSE' }
-  s.author           = { 'bluepixeltech' => 'bluepixel.technologies@gmail.com' }
+  s.author           = { 'Pouya Khansaryan' => 'bluepixel.technologies@gmail.com' }
   s.source           = { :git => 'https://github.com/bluepixeltech/BPActivityIndicator.git', :tag => s.version.to_s }
-  # s.social_media_url = 'https://twitter.com/<TWITTER_USERNAME>'
+  s.social_media_url = 'https://www.instagram.com/pouya.ios.dev/'
 
-  s.ios.deployment_target = '8.0'
-
-  s.source_files = 'BPActivityIndicator/Classes/**/*'
+  s.ios.deployment_target = '12.0'
+  s.swift_version = '5.0'
+  s.platforms = {
+      "ios": "12.0"
+  }
+  s.source_files = 'Source/**/*.swift'
   
-  # s.resource_bundles = {
-  #   'BPActivityIndicator' => ['BPActivityIndicator/Assets/*.png']
-  # }
-
-  # s.public_header_files = 'Pod/Classes/**/*.h'
-  # s.frameworks = 'UIKit', 'MapKit'
-  # s.dependency 'AFNetworking', '~> 2.3'
 end

@@ -22,7 +22,7 @@ pod 'BPActivityIndicator'
 
 ## Author
 
-bluepixeltech, bluepixel.technologies@gmail.com
+Pouya Khansaryan, bluepixel.technologies@gmail.com
 
 ## License
 
