@@ -5,7 +5,7 @@ Pod::Spec.new do |s|
   s.summary          = 'A customizable activity indicator view written in Swift 5'
 
   s.description      = <<-DESC
-'BPActivityIndicator is a light-weight replacement for UIActivityIndicatorView based on Core Animation and Core Graphics. I can added to your project both programmatically and via Interface Builder.'
+'BPActivityIndicator is a light-weight customizable replacement for UIActivityIndicatorView based on Core Animation and Core Graphics. It can be added to your project both programmatically and via Interface Builder.'
                        DESC
 
   s.homepage         = 'https://github.com/bluepixeltech/BPActivityIndicator'

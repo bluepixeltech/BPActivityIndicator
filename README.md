@@ -5,6 +5,12 @@
 [![License](https://img.shields.io/cocoapods/l/BPActivityIndicator.svg?style=flat)](https://cocoapods.org/pods/BPActivityIndicator)
 [![Platform](https://img.shields.io/cocoapods/p/BPActivityIndicator.svg?style=flat)](https://cocoapods.org/pods/BPActivityIndicator)
 
+## Introduction
+
+BPActivityIndicator is a light-weight customizable replacement for UIActivityIndicatorView based on Core Animation and Core Graphics. It can be added to your project both programmatically and via Interface Builder.
+
+![](g1.gif)
+
 ## Example
 
 To run the example project, clone the repo, and run `pod install` from the Example directory first.
