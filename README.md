@@ -13,12 +13,16 @@ To run the example project, clone the repo, and run `pod install` from the Examp
 
 ## Installation
 
+### Via Cocoapods
 BPActivityIndicator is available through [CocoaPods](https://cocoapods.org). To install
 it, simply add the following line to your Podfile:
 
 ```ruby
 pod 'BPActivityIndicator'
 ```
+
+### Via source file
+Simply drag & drop BPActivityIndicator.swift into your project.
 
 ## Author
 
