@@ -25,6 +25,14 @@ BPActivityIndicator is a light-weight customizable replacement for UIActivityInd
    **STYLE** | **STYLE**  
    ------------ | -------------
    *standardSpinning* |  *standardPulsating*
+   *standardSpinningDashed* |  *standardTrailingContinuous*
+   *standardTrailingDashed* |  *standardEchoOutside*
+   *standardEchoInside* |  *standardRainbowFill*
+   *tripleDotDance* |  *iOSCircles*
+   *iOS* |  *ringFlare*
+   *linearBars* |  *linearBarWave*
+   *linearBarWaggle* |  *linearBarHop*
+          
 
 ## Example
 
