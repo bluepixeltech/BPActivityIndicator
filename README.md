@@ -22,9 +22,9 @@ BPActivityIndicator is a light-weight customizable replacement for UIActivityInd
 
 ## Available styles
 
-        **STYLE** | **STYLE**  
-        ------------ | -------------
-        *standardSpinning* |  *standardPulsating*
+   **STYLE** | **STYLE**  
+   ------------ | -------------
+   *standardSpinning* |  *standardPulsating*
 
 ## Example
 
