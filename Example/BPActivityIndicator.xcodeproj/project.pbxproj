@@ -11,6 +11,7 @@
 		4291169B247B364D00623548 /* g2.gif in Resources */ = {isa = PBXBuildFile; fileRef = 42911698247B364900623548 /* g2.gif */; };
 		4291169C247B364D00623548 /* g3.gif in Resources */ = {isa = PBXBuildFile; fileRef = 42911699247B364B00623548 /* g3.gif */; };
 		4291169D247B364D00623548 /* g1.gif in Resources */ = {isa = PBXBuildFile; fileRef = 4291169A247B364D00623548 /* g1.gif */; };
+		42C4F723247C35B600697472 /* title.png in Resources */ = {isa = PBXBuildFile; fileRef = 42C4F722247C35B600697472 /* title.png */; };
 		42F8BAE4247AD7BD00479F6E /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 42F8BAE1247AD7BC00479F6E /* ViewController.swift */; };
 		42F8BAE5247AD7BD00479F6E /* VC3.swift in Sources */ = {isa = PBXBuildFile; fileRef = 42F8BAE2247AD7BD00479F6E /* VC3.swift */; };
 		42F8BAE6247AD7BD00479F6E /* VC2.swift in Sources */ = {isa = PBXBuildFile; fileRef = 42F8BAE3247AD7BD00479F6E /* VC2.swift */; };
@@ -38,6 +39,7 @@
 		42911698247B364900623548 /* g2.gif */ = {isa = PBXFileReference; lastKnownFileType = image.gif; path = g2.gif; sourceTree = "<group>"; };
 		42911699247B364B00623548 /* g3.gif */ = {isa = PBXFileReference; lastKnownFileType = image.gif; path = g3.gif; sourceTree = "<group>"; };
 		4291169A247B364D00623548 /* g1.gif */ = {isa = PBXFileReference; lastKnownFileType = image.gif; path = g1.gif; sourceTree = "<group>"; };
+		42C4F722247C35B600697472 /* title.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = title.png; sourceTree = "<group>"; };
 		42F8BAE1247AD7BC00479F6E /* ViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
 		42F8BAE2247AD7BD00479F6E /* VC3.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = VC3.swift; sourceTree = "<group>"; };
 		42F8BAE3247AD7BD00479F6E /* VC2.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = VC2.swift; sourceTree = "<group>"; };
@@ -94,6 +96,7 @@
 				4291169A247B364D00623548 /* g1.gif */,
 				42911698247B364900623548 /* g2.gif */,
 				42911699247B364B00623548 /* g3.gif */,
+				42C4F722247C35B600697472 /* title.png */,
 			);
 			path = GIFs;
 			sourceTree = "<group>";
@@ -272,6 +275,7 @@
 			files = (
 				4291169D247B364D00623548 /* g1.gif in Resources */,
 				4291169C247B364D00623548 /* g3.gif in Resources */,
+				42C4F723247C35B600697472 /* title.png in Resources */,
 				42F8BAE9247AD7FE00479F6E /* Main.storyboard in Resources */,
 				607FACE01AFB9204008FA782 /* LaunchScreen.xib in Resources */,
 				607FACDD1AFB9204008FA782 /* Images.xcassets in Resources */,

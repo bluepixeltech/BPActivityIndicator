@@ -1,3 +1,5 @@
+![](Example/GIFs/title.png)
+
 # BPActivityIndicator
 
 [![CI Status](https://img.shields.io/travis/bluepixeltech/BPActivityIndicator.svg?style=flat)](https://travis-ci.org/bluepixeltech/BPActivityIndicator)
