@@ -11,10 +11,10 @@ BPActivityIndicator is a light-weight customizable replacement for UIActivityInd
 
 Demo 1 | Demo 2
 ------------ | -------------
-Content from cell 1 | Content from cell 2
+![](Example/GIFs/g1.gif) |  ![](Example/GIFs/g2.gif)
 Content in the first column | Content in the second column
 
-![](Example/GIFs/g1.gif) ![](Example/GIFs/g2.gif) ![](Example/GIFs/g3.gif)
+ ![](Example/GIFs/g3.gif)
 
 ## Example
 
