@@ -44,7 +44,7 @@ To run the example project, clone the repo, and run `pod install` from the Examp
 
 ## Installation
 
-* ### - Via Cocoapods
+* ### Via Cocoapods
 BPActivityIndicator is available through [CocoaPods](https://cocoapods.org). To install
 it, simply add the following line to your Podfile:
 
@@ -52,15 +52,15 @@ it, simply add the following line to your Podfile:
 pod 'BPActivityIndicator'
 ```
 
-* ### - Via source file
+* ### Via source file
 Simply drag & drop BPActivityIndicator.swift into your project.
 
 ## Usage
 
-* ### - Interface Builder
+* ### Interface Builder
 In Storyboard, drag & drop a UIView object into the view controller. In view's Identity Inspector, change the **Class** and **Module** to BPActivityIndicator.
 
-* ### - Programmatically
+* ### Programmatically
 First, import the module:
 ```swift
 import BPActivityIndicator
