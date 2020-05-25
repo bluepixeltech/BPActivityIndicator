@@ -9,7 +9,7 @@
 
 BPActivityIndicator is a light-weight customizable replacement for UIActivityIndicatorView based on Core Animation and Core Graphics. It can be added to your project both programmatically and via Interface Builder.
 
-  |   |  
+ 🎞 | 🎞  |  🎞
 ------------ | ------------- | -------------
 ![](Example/GIFs/g1.gif) |  ![](Example/GIFs/g2.gif) |  ![](Example/GIFs/g3.gif)
 
