@@ -14,7 +14,17 @@ BPActivityIndicator is a light-weight customizable replacement for UIActivityInd
 ![](Example/GIFs/g1.gif) |  ![](Example/GIFs/g2.gif) |  ![](Example/GIFs/g3.gif)
 
 
+## Features
+* Custom color
+* Custom size
+* Custom style
+* Custom backgound (none, compact and full)
 
+## Available styles
+
+        **STYLE** | **STYLE**  
+        ------------ | -------------
+        *standardSpinning* |  *standardPulsating*
 
 ## Example
 
@@ -22,7 +32,7 @@ To run the example project, clone the repo, and run `pod install` from the Examp
 
 ## Requirements
 
-* - Xcode 11, Swift 5
+*  Xcode 11, Swift 5
 
 ## Installation
 
