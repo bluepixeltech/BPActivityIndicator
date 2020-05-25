@@ -9,12 +9,12 @@
 
 BPActivityIndicator is a light-weight customizable replacement for UIActivityIndicatorView based on Core Animation and Core Graphics. It can be added to your project both programmatically and via Interface Builder.
 
-Demo 1 | Demo 2
------------- | -------------
-![](Example/GIFs/g1.gif) |  ![](Example/GIFs/g2.gif)
-Content in the first column | Content in the second column
+Demo 1 | Demo 2 | Demo 3
+------------ | ------------- | -------------
+![](Example/GIFs/g1.gif) |  ![](Example/GIFs/g2.gif) |  ![](Example/GIFs/g3.gif)
 
- ![](Example/GIFs/g3.gif)
+
+
 
 ## Example
 
