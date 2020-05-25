@@ -9,6 +9,11 @@
 
 BPActivityIndicator is a light-weight customizable replacement for UIActivityIndicatorView based on Core Animation and Core Graphics. It can be added to your project both programmatically and via Interface Builder.
 
+Demo 1 | Demo 2
+------------ | -------------
+Content from cell 1 | Content from cell 2
+Content in the first column | Content in the second column
+
 ![](Example/GIFs/g1.gif) ![](Example/GIFs/g2.gif) ![](Example/GIFs/g3.gif)
 
 ## Example
@@ -17,7 +22,7 @@ To run the example project, clone the repo, and run `pod install` from the Examp
 
 ## Requirements
 
-- Xcode 11.*, Swift 5.*
+* - Xcode 11, Swift 5
 
 ## Installation
 
@@ -35,7 +40,7 @@ Simply drag & drop BPActivityIndicator.swift into your project.
 ## Usage
 
 * ### - Interface Builder
-In Storyboard, drag & drop a UIView object into the view controller. In view's Identity Inspector, change the Class and Module to BPActivityIndicator.
+In Storyboard, drag & drop a UIView object into the view controller. In view's Identity Inspector, change the **Class** and **Module** to BPActivityIndicator.
 
 * ### - Programmatically
 First, import the module:
